@@ -1,0 +1,15 @@
+--2020-03-12 07:27:29--  http://invisible-island.net/public/public.html
+Resolving invisible-island.net (invisible-island.net)... 192.124.249.12
+Connecting to invisible-island.net (invisible-island.net)|192.124.249.12|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://invisible-island.net/public/public.html [following]
+--2020-03-12 07:27:30--  https://invisible-island.net/public/public.html
+Connecting to invisible-island.net (invisible-island.net)|192.124.249.12|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 2086 (2.0K) [text/html]
+Saving to: '/home/PlexCollection/showTemp/NewWalkingDeadBatchTest/public.html'
+
+     0K ..                                                    100% 72.6M=0s
+
+2020-03-12 07:27:30 (72.6 MB/s) - '/home/PlexCollection/showTemp/NewWalkingDeadBatchTest/public.html' saved [2086/2086]
+

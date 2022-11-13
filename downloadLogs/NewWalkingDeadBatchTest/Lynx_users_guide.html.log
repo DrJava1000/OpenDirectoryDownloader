@@ -1,0 +1,14 @@
+--2020-03-12 07:27:29--  https://lynx.invisible-island.net/lynx_help/Lynx_users_guide.html
+Resolving lynx.invisible-island.net (lynx.invisible-island.net)... 192.124.249.158
+Connecting to lynx.invisible-island.net (lynx.invisible-island.net)|192.124.249.158|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 177545 (173K) [text/html]
+Saving to: '/home/PlexCollection/showTemp/NewWalkingDeadBatchTest/Lynx_users_guide.html'
+
+     0K .......... .......... .......... .......... .......... 28% 1.22M 0s
+    50K .......... .......... .......... .......... .......... 57% 2.45M 0s
+   100K .......... .......... .......... .......... .......... 86% 68.3M 0s
+   150K .......... .......... ...                             100% 1.22M=0.08s
+
+2020-03-12 07:27:29 (2.13 MB/s) - '/home/PlexCollection/showTemp/NewWalkingDeadBatchTest/Lynx_users_guide.html' saved [177545/177545]
+

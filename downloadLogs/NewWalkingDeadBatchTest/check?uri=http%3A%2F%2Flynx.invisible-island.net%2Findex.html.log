@@ -1,0 +1,12 @@
+--2020-03-12 07:27:30--  http://validator.w3.org/check?uri=http%3A%2F%2Flynx.invisible-island.net%2Findex.html
+Resolving validator.w3.org (validator.w3.org)... 128.30.52.39, 2603:400a:ffff:804:801e:34:0:27
+Connecting to validator.w3.org (validator.w3.org)|128.30.52.39|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: '/home/PlexCollection/showTemp/NewWalkingDeadBatchTest/check?uri=http%3A%2F%2Flynx.invisible-island.net%2Findex.html'
+
+     0K .......... ....                                         313K=0.05s
+
+Last-modified header missing -- time-stamps turned off.
+2020-03-12 07:27:31 (313 KB/s) - '/home/PlexCollection/showTemp/NewWalkingDeadBatchTest/check?uri=http%3A%2F%2Flynx.invisible-island.net%2Findex.html' saved [15248]
+
